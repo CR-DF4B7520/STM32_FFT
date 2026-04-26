@@ -1,0 +1,10 @@
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.lnp
+*.axf
+*.sct
+/Objects/
+/Listings/
